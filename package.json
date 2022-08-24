@@ -1,0 +1,23 @@
+{
+    "name": "babylon-study1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "server": "http-server -o"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yojik/babylon-study1.git"
+    },
+    "author": "yojik",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yojik/babylon-study1/issues"
+    },
+    "homepage": "https://github.com/yojik/babylon-study1#readme",
+    "dependencies": {
+        "http-server": "^14.1.1"
+    }
+}
